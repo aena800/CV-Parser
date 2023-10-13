@@ -1,0 +1,4 @@
+pandas
+resume_parser
+resumeparse
+spacy==2.2.4
